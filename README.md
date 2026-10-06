@@ -40,8 +40,6 @@ A high-performance Node.js backend powering an AI-driven Virtual Reality tutor a
 
 The 3D virtual friend application will be live at http://localhost:5173
 
-
-
 ## Frontend setup:
 # Open a new terminal and navigate into frontend
 cd frontend
@@ -79,3 +77,5 @@ pm2 save
 
 📄 License
 This project is licensed under the MIT License.
+
+
