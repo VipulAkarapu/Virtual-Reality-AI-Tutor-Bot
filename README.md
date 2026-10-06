@@ -42,7 +42,7 @@ The 3D virtual friend application will be live at http://localhost:5173
 
 
 
-Frontend setup:
+## Frontend setup:
 # Open a new terminal and navigate into frontend
 cd frontend
 
@@ -53,7 +53,7 @@ yarn install
 yarn dev
 
 
-Docker Deployment:
+## Docker Deployment:
 
 cd backend
 
@@ -63,7 +63,7 @@ docker build -t r3f-virtual-friend-backend .
 # Run container with environment variables
 docker run -d -p 3000:3000 --env-file .env r3f-virtual-friend-backend
 
-PM2 PROCESS MANAGER SETUP:
+## PM2 PROCESS MANAGER SETUP:
 
 # Install PM2 globally
 npm install pm2 -g
