@@ -8,7 +8,7 @@ A high-performance Node.js backend powering an AI-driven Virtual Reality tutor a
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **AI Chat Processing:** Connects user prompts to LLM endpoints for contextual responses.
 * **Audio & TTS Pipeline:** Generates and serves `.mp3` / `.wav` audio files alongside facial animation and lip-sync JSON data.
@@ -17,7 +17,7 @@ A high-performance Node.js backend powering an AI-driven Virtual Reality tutor a
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **Runtime:** [Node.js](https://nodejs.org/) (v18+)
 * **Package Manager:** [Yarn](https://yarnpkg.com/)
@@ -26,7 +26,7 @@ A high-performance Node.js backend powering an AI-driven Virtual Reality tutor a
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 .
